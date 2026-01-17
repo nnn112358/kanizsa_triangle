@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+
+  <!-- 1. 黒い円3つ -->
+  <circle cx="68" cy="90" r="45" fill="black"/>
+  <circle cx="332" cy="90" r="45" fill="black"/>
+  <circle cx="200" cy="345" r="45" fill="black"/>
+
+  <!-- 2. 黒い線の三角形（上向き：頂点が上、底辺が下） -->
+  <polygon points="200,52 50,260 350,260" fill="none" stroke="black" stroke-width="2.5"/>
+
+  <!-- 3. 白い三角形（下向き：円の中心を結ぶ） -->
+  <polygon points="68,90 332,90 200,345" fill="white"/>
+</svg>
