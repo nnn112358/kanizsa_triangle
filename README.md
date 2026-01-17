@@ -1,6 +1,7 @@
 # Kanizsa Triangle
 
 カニッツァの三角形（錯視図形）をSVGとPython+OpenCVで生成するプロジェクト。
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f4ba3a88-9521-448b-bb59-bd6c3c588bb8" />
 
 ## 概要
 
